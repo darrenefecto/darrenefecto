@@ -1,16 +1,32 @@
-### Hi there 👋
+<h3>Hello, I'm Darrenefecto</h3>
+<b>I'm a game developer/programmer and 3D-Artist with years of experience.</b>
+<h4><a href="https://darrenefecto.github.io/">Goto My Website</a></h4><br>
 
-<!--
-**darrenefecto/darrenefecto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 📡 &nbsp;My Socials</h2>
+<p align="left">
+  <a href="https://instagram.com/darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/instagram.png" alt="instagram" width="35" height="35"/></a>
+  <a href="https://youtube.com/@darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/youtube.png" alt="youtube" width="35" height="35"/></a>
+</p>
 
-Here are some ideas to get you started:
+<h2> 👨‍💻 &nbsp;Some Programming Languages I Learned</h2>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="javaScript" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🛠 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+</p>
+
+<h2> 💻 &nbsp;Some System Operators I Know</h2>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" alt="windows8" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+</p>
