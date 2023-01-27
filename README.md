@@ -4,8 +4,8 @@
 
 <h2> 📡 &nbsp;My Socials</h2>
 <p align="left">
-  <a href="https://instagram.com/darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/instagram.png" alt="instagram" width="35" height="35"/></a>
-  <a href="https://youtube.com/@darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/youtube.png" alt="youtube" width="35" height="35"/></a>
+  <a href="https://instagram.com/darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/instagram.webp" alt="instagram" width="35" height="35"/></a>
+  <a href="https://youtube.com/@darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/youtube.webp" alt="youtube" width="35" height="35"/></a>
 </p>
 
 <h2> 👨‍💻 &nbsp;Some Programming Languages I Learned</h2>
