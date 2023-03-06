@@ -1,3 +1,4 @@
+<img src="./darrenefecto-2.png">
 <h3>Hello, I'm Darrenefecto</h3>
 <b>I'm a game developer/programmer and 3D-Artist with years of experience.</b>
 <h4><a href="https://darrenefecto.github.io/">Goto My Website</a></h4><br>
