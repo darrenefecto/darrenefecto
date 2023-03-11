@@ -3,6 +3,10 @@
 <b>I'm a game developer/programmer and 3D-Artist with years of experience.</b>
 <h4><a href="https://darrenefecto.github.io/">Goto My Website</a></h4><br>
 
+[![Darrens's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrenefecto&show_icons=true&layout=compact&theme=dark)](https://github.com/darrenefecto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenefecto&layout=compact&theme=dark)](https://github.com/darrenefecto)
+
 <h2> 📡 &nbsp;My Socials</h2>
 <p align="left">
   <a href="https://instagram.com/darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/instagram.webp" alt="instagram" width="35" height="35"/></a>
