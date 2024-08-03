@@ -29,6 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" alt="directX" width="45" height="45"/>
 </p>
 
 <h2> 💻 &nbsp;Some System Operators I Know</h2>
