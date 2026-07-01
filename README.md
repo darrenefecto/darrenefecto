@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./darrenefecto-2.png" width="100%" alt="Banner">
+  <img src="./Wallpaper.webp" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Darrenefecto</h1>
