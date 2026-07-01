@@ -1,41 +1,79 @@
-<img src="./darrenefecto-2.png">
-<h3>Hello, I'm Darrenefecto</h3>
-<b>I'm a game developer/programmer and 3D-Artist with years of experience.</b>
-<h4><a href="https://darrenefecto.github.io/">Goto My Website</a></h4><br>
-
-[![Darrens's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrenefecto&show_icons=true&layout=compact&theme=dark)](https://github.com/darrenefecto)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenefecto&layout=compact&theme=dark)](https://github.com/darrenefecto)
-
-<h2> 📡 &nbsp;My Socials</h2>
-<p align="left">
-  <a href="https://instagram.com/darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/instagram.webp" alt="instagram" width="35" height="35"/></a>
-  <a href="https://youtube.com/@darrenefecto"><img src="https://github.com/darrenefecto/darrenefecto.github.io/blob/master/images/icons/youtube.webp" alt="youtube" width="35" height="35"/></a>
+<p align="center">
+  <img src="./darrenefecto-2.png" width="100%" alt="Banner">
 </p>
 
-<h2> 👨‍💻 &nbsp;Some Programming Languages I Learned</h2>
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="javaScript" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<h1 align="center">Hi, I'm Darrenefecto</h1>
+
+<p align="center">
+Game Developer • Programmer • 3D Artist
 </p>
 
-<h2> 🛠 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" alt="directX" width="45" height="45"/>
+<p align="center">
+Building games, graphics systems and interactive experiences.
 </p>
 
-<h2> 💻 &nbsp;Some System Operators I Know</h2>
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" alt="windows8" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<p align="center">
+  <a href="https://darrenefecto.github.io/">Website</a> •
+  <a href="https://instagram.com/darrenefecto">Instagram</a> •
+  <a href="https://youtube.com/@darrenefecto">YouTube MUSIC</a> •
+  <a href="https://youtube.com/@DarrenefectoTV">YouTube GAMING</a>
 </p>
+
+---
+
+## About Me
+
+* 🎮 Game development with practical production experience
+* 🧠 Programming with focus on performance and interactive systems
+* 🎨 3D art, asset creation and visual workflows
+* ⚙️ Interested in graphics programming and real-time rendering
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="42"/>
+</p>
+
+### Tools & Engines
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="42"/>
+</p>
+
+### Platforms
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="42"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="42"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenefecto&layout=compact&theme=dark">
+</p>
+
+---
+
+## Current Focus
+
+* Game systems
+* Rendering & graphics
+* 3D pipelines
+* Experimental projects
